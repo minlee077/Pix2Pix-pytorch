@@ -15,6 +15,10 @@ L1 losses (for Generator)
 
 <img src="./assets/edges_to_shoes_L1_loss_figure.png" width="70%">
 
-entire losses
+Adversarial loss
+
+<img src="./assets/edges_to_shoes_adversary_loss_figure.png" width="70%">
+
+Entire losses
 
 <img src="./assets/edges_to_shoes_loss_figure.png" width="70%">
